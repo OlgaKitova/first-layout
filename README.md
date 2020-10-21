@@ -1,7 +1,7 @@
 # first-layout
 My first  layout
 <br/>
- https://olgakitova.github.io/first-layout/
+ https://olgakitova.github.io/first-layout/firstwork/
  <br/>
  This is the first educational project created in April this year from the layout provided in the course on the Open Education website. The site project is typeset in the desktop version, not adaptive, not responsive.
  <br/>
